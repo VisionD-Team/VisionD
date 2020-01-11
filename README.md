@@ -28,15 +28,15 @@ La visualización del código será la siguiente si se corre en Node-RED no-loca
 
 
 ## Contribución
-Las solicitudes de extracción son bienvenidas. Para cambios mayores, por favor abra primero un número para discutir lo que le gustaría cambiar.
+Se abre el código para la comunidad con el fin de recibir actualizaciones y propuestas que puedan potenciar las capacidades del visor.
 
-Por favor, asegúrese de actualizar las pruebas según corresponda.
+
 
 ## Links externos
 [VISION-D](https://sites.google.com/view/visiond/home)
 
 ## Links externos
-LEONCIO HUAMÁN PEREDO
-LUIS PACO MALPARTIDA 
-ENRIQUE SIGARRÓSTEGUI GUERRERO 
+LEONCIO HUAMÁN PEREDO<br>
+LUIS PACO MALPARTIDA <br>
+ENRIQUE SIGARRÓSTEGUI GUERRERO <br>
 
