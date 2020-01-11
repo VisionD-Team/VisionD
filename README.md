@@ -35,7 +35,7 @@ Se abre el código para la comunidad con el fin de recibir actualizaciones y pro
 ## Links externos
 [VISION-D](https://sites.google.com/view/visiond/home)
 
-## Links externos
+## Desarrolladores
 LEONCIO HUAMÁN PEREDO<br>
 LUIS PACO MALPARTIDA <br>
 ENRIQUE SIGARRÓSTEGUI GUERRERO <br>
