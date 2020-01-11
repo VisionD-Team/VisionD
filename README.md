@@ -19,6 +19,7 @@ Se importará el código como clipboard en NodeRED del RaspBerry.
 La visualización del código será la siguiente si se corre en Node-RED no-local.
 
 
+![No-Loca. NodeRED](https://github.com/leonciohuamanperedo/VisionD/blob/master/Node-Red_VISIOND.png)
 
 
 ## Contribución
