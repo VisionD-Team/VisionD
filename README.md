@@ -35,3 +35,8 @@ Por favor, asegúrese de actualizar las pruebas según corresponda.
 ## Links externos
 [VISION-D](https://sites.google.com/view/visiond/home)
 
+## Links externos
+LEONCIO HUAMÁN PEREDO
+LUIS PACO MALPARTIDA 
+ENRIQUE SIGARRÓSTEGUI GUERRERO 
+
