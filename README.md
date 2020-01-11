@@ -2,7 +2,12 @@
 
 Es un visor que permite a las personas con discapacidad auditiva
 visualizar en texto lo que dice su interlocutor, sin perder contacto visual y sin necesidad de
-uso de lenguaje de señas.
+uso de lenguaje de señas. Utiliza recursos de inteligencia artificial gracias a los servicios de IBM WATSON.
+
+<i>Sobre el código: <br>
+El código está nativamente creado para el lenguaje de programación Node-RED para la tecnología EDGEcomputing. Para este caso, se utiliza un Raspberry como microcomputador para la programación e implementación de VisionD.
+</i>
+
 
 ## Instalación Node-RED
 
